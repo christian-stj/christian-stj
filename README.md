@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 💻 I'm currently studying computer science
+
+Check out some of my projects at [christian.stjernberg.com](https://christian.stjernberg.com/) (hosted with GitHub Pages)
+
 <!--
 **christian-stj/christian-stj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
