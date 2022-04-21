@@ -2,6 +2,8 @@
 
 
 - 💻 I'm currently studying computer science
+- 👨‍💻 I'm into functional programming and trying new things
+- 🎭 I'm one of two project leaders of a student theatre production
 
 Check out some of my projects at [christian.stjernberg.com](https://christian.stjernberg.com/) (hosted with GitHub Pages)
 
