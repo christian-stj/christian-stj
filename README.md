@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💻 I'm currently studying computer science
+- 💻 I'm a software engineer
 - 👨‍💻 I'm into functional programming and trying new things
 
 Check out some of my projects at [christian.stjernberg.com](https://christian.stjernberg.com/) (hosted with GitHub Pages)
