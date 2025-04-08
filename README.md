@@ -1,8 +1,7 @@
-### Hi there 👋
-
-
-- 💻 I'm a software engineer
-- 👨‍💻 I'm into functional programming and trying new things
+<h1 align="center">Hi there 👋, I'm Christian</h1>
+<p align="center">
+  <em>Software Engineer • Consultant • Musician</em>
+</p>
 
 Check out some of my projects at [christian.stjernberg.com](https://christian.stjernberg.com/) (hosted with GitHub Pages)
 
